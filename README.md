@@ -39,7 +39,7 @@ A organização do projeto segue o princípio da Separação de Responsabilidade
 
 ### 4.1. Clone o Repositório (Versionamento)
 
-    git clone [INSERIR LINK DO SEU REPOSITÓRIO AQUI]
+    git clone https://github.com/alvaro259/CRUD_FLET_SQLITE_GQS
     cd CRUD_FLET_SQLITE_GQS
 
 ### 4.2. Configuração do Ambiente Virtual
